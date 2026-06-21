@@ -1,0 +1,10 @@
+WIN_WIDTH = 576
+WIN_HEIGHT = 324
+C_ORANGE = (255, 128, 0)
+MENU_OPTION = ('NEW GAME - SINGLE PLAYER',
+               'NEW GAME 2P - COOPERATIVE',
+               'NEW GAME 2P - COMPETITIVE'
+               'SCORE',
+               'EXIT')
+C_WHITE = (255, 255, 255)
+C_YELLOW = (255, 255, 0)
